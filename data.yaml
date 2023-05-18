@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/VisionIsAllYouNeed/yolov7/data
+train: /content/drive/MyDrive/VisionIsAllYouNeed/yolov7/data/train/images
+val: /content/drive/MyDrive/VisionIsAllYouNeed/yolov7/data/valid/images
+
+nc: 3
+names: ['glasses', 'no_glasses', 'sun_glasses']
