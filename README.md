@@ -1,4 +1,5 @@
-Sunglasses Detection using YOLOv7
+# Sunglasses Detection using YOLOv7
+
 Project Overview
 This project leverages YOLOv7 (You Only Look Once), a state-of-the-art real-time object detection model, to identify sunglasses in images. The model is trained on a custom dataset consisting of three classes: glasses, no_glasses, and sun_glasses. The objective is to detect whether an individual is wearing sunglasses, glasses, or neither in real-time or on still images.
 
